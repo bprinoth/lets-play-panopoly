@@ -8,6 +8,7 @@ __pycache__/
 
 # our data folder doesn't have to synch every time
 data/
+.DS_Store
 
 
 # Distribution / packaging
