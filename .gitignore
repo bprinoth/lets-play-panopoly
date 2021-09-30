@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# our data folder doesn't have to synch every time
+data/
+
+
 # Distribution / packaging
 .Python
 build/
